@@ -5,8 +5,8 @@ import datetime as dt
 import random
 import smtplib
 
-my_email= os.environ.get("my_email")
-LaPass= os.environ.get("LaPass")
+my_email= os.environ.get("MY_EMAIL")
+LaPass= os.environ.get("LAPASS")
 
 # 1. Update the birthdays.csv
 

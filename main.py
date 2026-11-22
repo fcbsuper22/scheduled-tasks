@@ -6,7 +6,7 @@ import random
 import smtplib
 
 my_email= os.environ.get("MY_EMAIL")
-LaPass= os.environ.get("LAPASS")
+LaPass= os.environ.get("MY_PASSWORD")
 
 # 1. Update the birthdays.csv
 
